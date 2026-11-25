@@ -1,0 +1,63 @@
+advice.bmp
+attack01.eft
+bossmakr.eft
+can not find chaoticsquaretype.xml
+can not find functionalpetsize.xml
+can not find healskilllist.xml
+can not find mainquest.xml
+can not find visiblepartybufskill.xml
+can not find wingposition.xml
+chinalogo2.bmp
+crevolveradd4.tga
+d.bmp
+d.dds
+d.jpg
+d.svmap
+d.tga
+d.wld
+d_demf.pc
+d_demr.pc
+d_dewf.pc
+d_dewr.pc
+d_elmm.pc
+d_elmr.pc
+d_elwm.pc
+d_elwr.pc
+d_humf.pc
+d_humm.pc
+d_huwf.pc
+d_huwm.pc
+d_vimm.pc
+d_vimr.pc
+d_viwm.pc
+d_viwr.pc
+da_self_crag.eft
+data/sky.dds
+dlvup.tga
+dynoss_main_btn_conversion.tga
+dynoss_main_btn_separation.tga
+dynoss_main_slot_01.tga
+dynoss_main_slot_02.tga
+flarebomb.eft
+in_sc_cowardice.eft
+jp_logo.bmp
+loading_title.tga
+nivallogo.bmp
+npcquesttrans_china.sdata
+npcquesttrans_korea.sdata
+npcquesttrans_poland.sdata
+npcquesttrans_taiwan.sdata
+npcquesttrans_test.sdata
+npcquesttrans_turkey.sdata
+opticlogo.bmp
+optionbutton.tga
+ph_logo.bmp
+rc_health.eft
+rc_stamina.eft
+s.tga
+s_l.dds
+s_m.dds
+saigong_logo.bmp
+sheetbutton.tga
+tutorial/keyboardred.tga
+web_inven.tga

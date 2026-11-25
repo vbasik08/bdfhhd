@@ -1,0 +1,13 @@
+# WinAPI-профиль fawkes
+
+прочее                   sites= 486 funcs= 239  top: kernel32.dll!GetLastError, kernel32.dll!CloseHandle, USER32.dll!wsprintfA, USER32.dll!GetMessageA
+время/таймеры            sites= 233 funcs= 113  top: winmm.dll!timeGetTime, kernel32.dll!GetTickCount, kernel32.dll!QueryPerformanceCounter, kernel32.dll!Sleep
+окна/UI                  sites= 132 funcs=  49  top: USER32.dll!MessageBoxA, USER32.dll!DispatchMessageA, USER32.dll!TranslateMessage, USER32.dll!PeekMessageA
+синхронизация/потоки     sites= 114 funcs=  77  top: kernel32.dll!LeaveCriticalSection, kernel32.dll!EnterCriticalSection, kernel32.dll!DeleteCriticalSection, kernel32.dll!InterlockedDecrement
+настройки ini/реестр     sites= 110 funcs=  55  top: kernel32.dll!WritePrivateProfileStringA, kernel32.dll!GetPrivateProfileStringA, ADVAPI32.dll!RegCloseKey, ADVAPI32.dll!RegQueryValueExA
+модули/процессы          sites=  83 funcs=  41  top: kernel32.dll!GetModuleHandleA, kernel32.dll!GetProcAddress, kernel32.dll!FreeLibrary, kernel32.dll!LoadLibraryA
+графика                  sites=  83 funcs=  26  top: GDI32.dll!CreateFontA, GDI32.dll!DeleteDC, GDI32.dll!GetDeviceCaps, GDI32.dll!GetTextExtentPoint32A
+кодировки/строки         sites=  78 funcs=  46  top: kernel32.dll!WideCharToMultiByte, kernel32.dll!MultiByteToWideChar, kernel32.dll!lstrlenW, kernel32.dll!lstrlen
+файлы                    sites=  52 funcs=  26  top: kernel32.dll!CreateFileA, kernel32.dll!WriteFile, kernel32.dll!GetFileSize, kernel32.dll!ReadFile
+сеть                     sites=  27 funcs=  14  top: GDI32.dll!SelectObject, WS2_32.dll!WSAAsyncSelect, WS2_32.dll!closesocket, WS2_32.dll!send
+ввод                     sites=  20 funcs=  15  top: USER32.dll!GetAsyncKeyState, USER32.dll!ShowCursor, USER32.dll!GetCursorPos

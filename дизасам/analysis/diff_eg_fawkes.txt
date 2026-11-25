@@ -1,0 +1,18 @@
+# Различия EG Shaiya (7,6 МБ) и Fawkes (35 МБ)
+
+ресурсы    всего: eg=1187 fawkes=1146 | только fawkes=260 | только eg=301
+xml        всего: eg=19 fawkes=19 | только fawkes=6 | только eg=6
+   только fawkes: 8Can not find FunctionalPetSize.xml, 8Can not find WingPosition.xml, Can not find VisiblePartyBufSkill.xml, Data/GeneralMoveTowns_Client.xml, data/ExcelXml/ItemAddOptionData.xml, data/ExcelXml/VisiblePartyBufSkill.xml
+   только eg:    Can not find FunctionalPetSize.xml, Can not find WingPosition.xml, Data/ExcelXml/WorldMapData.xml, data/ExcelXml/BattlefieldMoveData.xml, data/ExcelXml/BodySkinData.xml, data/ExcelXml/TPData.xml
+sdata      всего: eg=13 fawkes=25 | только fawkes=13 | только eg=1
+   только fawkes: NpcQuestTrans_BRAZIL.SData, NpcQuestTrans_CHINA.SData, NpcQuestTrans_FRANCE.SData, NpcQuestTrans_GERMANY.SData, NpcQuestTrans_ITALY.SData, NpcQuestTrans_KOREA.SData, NpcQuestTrans_POLAND.SData, NpcQuestTrans_SPAIN.SData, NpcQuestTrans_TAIWAN.SData, NpcQuestTrans_TEST.SData, NpcQuestTrans_TURKEY.SData, NpcQuestTrans_USA.SData
+   только eg:    data/BinarySData/DBSkinModelData.SData
+eft        всего: eg=357 fawkes=273 | только fawkes=7 | только eg=91
+   только fawkes: Attack01.EFT, Cwater.EFT, MP_recover.EFT, Rec_protection.EFT, Weather.EFT, monster.EFT, resist.EFT
+   только eg:    AuraFlowers.EFT, BlastingBarrier.EFT, CWater.EFT, DA_BengJin_beiji.EFT, DA_BengQuan_beiji.EFT, DA_Douhunxfj_beiji.EFT, DA_JiFeng_beiji.EFT, DA_LianJi_beiji.EFT, DA_area_bloodshower1.EFT, DA_area_earthpole_no.EFT, DA_shitou.EFT, DA_target_xiongcf.EFT
+шаблоны    всего: eg=496 fawkes=545 | только fawkes=218 | только eg=169
+   только fawkes:  : %d, ! %s , !! Name: %s, "@data/interface/tarocard/tarocard%d.tga, $B%s_, %4d %4d %s, %d %d, %d %d %d, %d %d %d %s, %d %s(%dD), %d %s(%dH), %d%s%s%s
+   только eg:      [OJ] HP: %d, SP: %d, MP: %d, Enchant: %d,   [OJ] Str: %d, Dex: %d, Rec: %d, Int: %d, Wis: %d, Luc: %d,  [ %s ] , %2d. %s, %3d, %s, %s, %3u.%3u.%3u.%3u%s, %Y-%m-%d %H-%M-%S, %Y.%m.%d %H:%M, %d %s - %s, %d Spins Left, %d Stat Points, %d%%%%, %d,%d
+api        всего: eg=340 fawkes=316 | только fawkes=229 | только eg=253
+   только fawkes: ADVAPI32.dll!RegCreateKeyA, ADVAPI32.dll!RegCreateKeyExA, ADVAPI32.dll!RegDeleteKeyA, ADVAPI32.dll!RegDeleteValueA, ADVAPI32.dll!RegEnumKeyA, ADVAPI32.dll!RegEnumKeyExA, ADVAPI32.dll!RegEnumValueA, ADVAPI32.dll!RegQueryInfoKeyA, ADVAPI32.dll!RegSetValueA, ADVAPI32.dll!RegSetValueExA, COMDLG32.dll!GetOpenFileNameA, COMDLG32.dll!GetSaveFileNameA
+   только eg:    ADVAPI32.dll!RegCreateKeyExW, ADVAPI32.dll!RegSetValueExW, DSOUND.dll!ord#11, GDI32.dll!CreateSolidBrush, GDI32.dll!GetGlyphOutlineA, GDI32.dll!GetTextExtentPoint32W, IMM32.dll!ImmAssociateContext, IMM32.dll!ImmGetCandidateListW, IMM32.dll!ImmGetCompositionStringW, IMM32.dll!ImmGetContext, IMM32.dll!ImmGetConversionStatus, IMM32.dll!ImmGetIMEFileNameA

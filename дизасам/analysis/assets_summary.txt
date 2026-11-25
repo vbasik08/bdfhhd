@@ -1,0 +1,8 @@
+# Инвентарь ресурсов клиента vs Data
+
+eg: путей=1187, exact=55, по имени=874, нет=258
+fawkes: путей=1146, exact=61, по имени=1022, нет=63
+
+Data: файлов=51118
+eg: отсутствует 258, примеры: _face.mlt, _foot.mlt, _hair.mlt, _hand.mlt, _helmet.mlt, _lower.mlt, _upper.mlt, anger/angerbar.tga, anger/angereffect.tga, anger/angereffect1.tga, attack_cartoon.eft, auction/button/navbar.tga, auraflowers.eft, background_01.dds, backpack.dds
+fawkes: отсутствует 63, примеры: advice.bmp, attack01.eft, bossmakr.eft, can not find chaoticsquaretype.xml, can not find functionalpetsize.xml, can not find healskilllist.xml, can not find mainquest.xml, can not find visiblepartybufskill.xml, can not find wingposition.xml, chinalogo2.bmp, crevolveradd4.tga, d.bmp, d.dds, d.jpg, d.svmap

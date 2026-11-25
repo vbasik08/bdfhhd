@@ -1,0 +1,243 @@
+# Роли функций eg
+
+== не определено: 10834 функций
+   0084717E  size=101602 none       
+   0046361C  size=23938  none       
+   0056CF50  size=15072  none       
+   007E4470  size=14592  none       
+   00861AE0  size=12496  none       
+   00628F20  size=12032  none       
+   006AC550  size=10592  none       
+   007AD520  size=9472   none       
+   004FA4B0  size=9376   none       
+   005CF3F0  size=8544   none       
+   00779A30  size=7872   none       
+   004B4B59  size=7654   none       
+   005FC150  size=7648   none       
+   006F7B00  size=7568   none       
+   0081F0EA  size=7378   none       
+   0058C780  size=6944   none       
+   006A2BC0  size=6640   none       
+   0067F2F0  size=6544   none       
+   004A9450  size=6357   none       
+   0076FAE0  size=6352   none       
+
+== UI (сборка интерфейса): 151 функций
+   005C68C0  size=3376   direct     clouds02.tga | clouds01.tga | Common/count2.TGA
+   00667440  size=2144   direct     Rader/map_up.tga | data/interface | Rader/map_left.tga
+   006704C0  size=2912   direct     PVP/pvp_minimap_button.tga | pvp_minimap_tooltip.tga | data/interface/pvp
+   005F4390  size=1104   direct     tooltip_arrow.dds | data/interface/Common | data/interface/icon
+   006A06A0  size=2768   direct     Statusminibar/Player_bar_bg.tga | data/interface | Statusminibar/Player_bar.tga
+   006DF550  size=1552   direct     Design4.tga | data/interface/Button | ComunityIcon_guildup.tga
+   006A24D0  size=816    direct     Statusminibar/enemy_bar_bg.tga | data/interface | Statusminibar/enemy_bar.tga
+   0068E760  size=432    direct     pvp_bar.tga | data/interface/pvp | pvp_result.tga
+   006CA870  size=5408   direct     UI/EP4/Inventory/button/inven_button2.dds | UI/EP4/Inventory/button/inven_button1.dds | Inventory/button/inven_button2.d
+   006D71F0  size=432    direct     bg_general.tga | data/interface/comunity | bg_guild.tga
+   006DFB60  size=1392   direct     ContextMenuBox.tga | data/interface/Comunity | Design4.tga
+   00646850  size=3792   direct     data/interface/gamecard/game_card%d.tga | data/interface/tarocard/tarocard22.tga | Gamble/slotbutton.tga
+   00644090  size=928    direct     Mainbottom/main_bottom.tga | data/interface | Mainbottom/main_bottom_bar.tga
+   0066D590  size=448    direct     Rader/party_MapBorder.tga | data/interface | Rader/arrow.tga
+   005602C0  size=8944   direct     Anger/Bg.tga | data/interface | Anger/AngerBar.tga
+   00685740  size=208    direct     Slot/Revolver_View1.tga | data/interface | Slot/RevolverAdd2.tga
+   006819A0  size=192    direct     Slot/main_slot_h.tga | data/interface | Slot/RevolverAdd2.tga
+   006DEF40  size=1552   direct     ContextMenuBox.tga | data/interface/Comunity | ContextMenuBox.tga
+   00610190  size=2848   direct     data/interface/login | logo.tga | data/interface/login
+   00664A10  size=7744   direct     Common/button/close.tga | chat/chat_check.tga | Rader/filter_button.tga
+
+== Звук: 142 функций
+   006FBA50  size=2048   direct     ch_att_swordone001.wav | ch_att_swordone002.wav | ch_att_swordone003.wav
+   00562F80  size=2944   direct     ch_hum_dam.wav | ch_ohatm001.wav | ch_hum_die.wav
+   006FC250  size=1168   direct     run_horse_ea01.wav | run_horse_ea02.wav | run_horse_ea03.wav
+   0074BE50  size=10352  direct     ch_maready02.wav | ui_error001.wav | ch_potion01.wav
+   0058A9C0  size=928    direct     ui_armor000.wav | ui_armor001.wav | ui_armor002.wav
+   005D2EB0  size=5744   direct     ch_walkd001.wav | ch_walkd002.wav | ch_walkd003.wav
+   0075B560  size=3008   direct     ef_dmg_confusion01.wav | ef_dmg_transf01.wav | ef_dmg_hold01.wav
+   005985D0  size=560    direct     ui_error001.wav | ui_error001.wav | ui_error001.wav
+   0074E7E0  size=400    direct     ui_error001.wav | ui_error001.wav | ui_error001.wav
+   006990E0  size=1008   direct     ui_error001.wav | ui_error001.wav | ui_error001.wav
+   0060D180  size=4848   direct     ui_error001.wav | ui_error001.wav | ui_error001.wav
+   007552D0  size=3360   direct     ui_party001.wav | ui_error001.wav | ui_party002.wav
+   006E1A80  size=2848   direct     ui_error001.wav | ui_error001.wav | ui_error001.wav
+   006E29E0  size=624    direct     ui_error001.wav | ui_error001.wav | ui_error001.wav
+   00582190  size=160    direct     amb_frontier.wav | amb_fury.wav | amb_light.wav
+   005C75F0  size=2448   direct     bgm_battle03.wav | bgm_battle02.wav | bgm_battle01.wav
+   0075C120  size=7616   direct     ui_skillnew001.wav | ui_error001.wav | ui_skillnew001.wav
+   00576E90  size=4976   direct     BGM_load0001.wav | BGM_town03.wav | BGM_town05.wav
+   00735B20  size=3760   direct     ch_levup001.wav | ch_levup001.wav | Rain.wav
+   0051B0B0  size=3232   direct     data/sound/back | data/sound | data/sound
+
+== Настройки/конфиг: 48 функций
+   006BD6F0  size=13456  direct     OPTION | OPTION | OPTION
+   005100B0  size=36656  direct     OPTION | OPTION | OPTION
+   006BA360  size=400    direct     Option/key | Option/text/MainTitle | Option/sound
+   006CCED0  size=16096  direct     OPTION | OPTION | OPTION
+   005B0210  size=272    direct     
+   0062BE20  size=1360   direct     
+   00691B90  size=1072   direct     
+   00756660  size=2880   direct     
+   006CA3A0  size=1232   direct     OPTION | OPTION
+   007A1100  size=1024   direct     ListBoxBackgroundOption | SelectViewOption | OverViewOption
+   00673270  size=6192   direct     data/PRU.ini | data/PRU.ini
+   00618BE0  size=5440   direct     data/CMP.ini | data/CMP.ini
+   0052A470  size=3376   direct     
+   00518FE0  size=3072   direct     CONFIG.INI
+   0079FE60  size=2096   direct     LayoutOption | option | LayoutOption
+   0069BCC0  size=1568   direct     
+   0068BB60  size=1456   direct     
+   006F4080  size=1456   direct     
+   00552FE0  size=1200   direct     CONFIG.INI
+   00681E90  size=1056   direct     
+
+== Файловый ввод-вывод: 33 функций
+   004238C6  size=383    direct     
+   004DAF00  size=1632   direct     
+   004DB620  size=1072   direct     
+   005D2650  size=560    direct     
+   00507AF0  size=544    direct     
+   005D2A20  size=528    direct     
+   00828DA2  size=128    direct     
+   0082C00F  size=938    direct     
+   00507F70  size=640    direct     
+   00507D10  size=608    direct     
+   0051C880  size=528    direct     
+   008375E0  size=131    direct     
+   007FD9D0  size=3408   direct     
+   0082BC5F  size=942    direct     
+   00509510  size=544    direct     
+   00508E40  size=496    direct     
+   00509320  size=496    direct     
+   0082C87C  size=472    direct     
+   0082B7CA  size=429    direct     
+   00509030  size=416    direct     
+
+== Эффекты: 25 функций
+   00563B40  size=7600   direct     Attack.EFT | data/Effect | LevelUp.EFT
+   00581C50  size=1344   direct     item_L.EFT | data/Effect | item_F.EFT
+   006B7AB0  size=6832   direct     Particle Effects Amount | Effect Distance | Simplify Effects
+   0042B4A5  size=762    direct     ID3DXEffectCompiler: State '%s' was not assigned a texture type | ID3DXEffectCompiler: State '%s' cannot be assigned an 
+   0042A78A  size=2891   direct     ID3DXEffectCompiler: State '%s' was assigned an unsupported value | ID3DXEffectCompiler: Error in type checking | ID3DXE
+   0042DB21  size=865    direct     ID3DXEffectCompiler: Unrecognized state '%s' | ID3DXEffectCompiler: State '%s' is not indexed | ID3DXEffectCompiler: Max
+   0055F380  size=304    direct     Guild.EFT | Duel.EFT | data/Effect
+   0062F590  size=8624   direct     Show Effects: ON | Show Effects: OFF | Show Simple Effects: ON
+   00775410  size=6400   direct     data/Effect/SkillEffect.xml | IN_EffectName | CA_EffectName
+   0042BD0E  size=1884   direct     ID3DXEffectCompiler: Compilation failed | ID3DXEffectCompiler::CompileEffect: Only 1-d shader arrays allowed | ID3DXEffe
+   00430F43  size=1328   direct     ID3DXEffectCompiler: There was an unexpected error in the parse tree | ID3DXEffectCompiler: There was an error initializ
+   006C3AE0  size=4832   direct     General Effects | Own Effects | Player Effects
+   0043020B  size=1747   direct     ID3DXEffectCompiler: There was a problem getting variable type | ID3DXEffectCompiler: Error initializing variable type |
+   00727530  size=448    direct     data/Effect/Shader/Tex/waves2.dds | data/Effect/Shader/Tex/waves2.dds | data/Effect/Shader/Tex/waves2.dds
+   0071ECA0  size=4240   direct     data/Effect/.EFT
+   006BB6F0  size=3296   direct     RANGE_EFFECT | SHOW_EFFECT_%d | EFFECTSSIMPLE
+   00792070  size=1792   direct     ItemCreateEffectSelBtn1 | ItemCreateEffectSelBtn2 | ItemCreateEffectSelBtn3
+   00429AFA  size=832    direct     ID3DXEffectCompiler: Unexpected node encountered when trying to determ | ID3DXEffectCompiler: Unexpected template type |
+   0042E1CC  size=602    direct     ID3DXEffectCompiler: There was a problem getting variable type | ID3DXEffectCompiler: Only numeric types and strings are
+   00779810  size=544    direct     ParticleEffectSize | 3DEffectSize | 3DEffectHeight
+
+== Графика: 24 функций
+   00455256  size=1851   direct     
+   0058B7D0  size=1600   direct     
+   00456505  size=1075   direct     
+   00702310  size=1968   direct     
+   00588CC0  size=640    direct     
+   005ECC80  size=272    direct     
+   0045693A  size=5768   direct     
+   0051ADB0  size=768    direct     
+   007020B0  size=480    direct     
+   007034A0  size=416    direct     
+   00456379  size=394    direct     
+   0045811E  size=299    direct     
+   00454B23  size=249    direct     
+   00703120  size=896    direct     
+   00455091  size=451    direct     
+   00454CDB  size=132    direct     
+   00454AA2  size=129    direct     
+   00702290  size=128    direct     
+   00705C00  size=96     direct     
+   00454CA7  size=50     direct     
+
+== Предметы/иконки: 23 функций
+   00615020  size=3744   direct     Icon_onehandedsword | Icon_onehandedsword | Icon_twohandedsword
+   006BC930  size=3520   direct     TITLES_ICONS | TITLES_ICONS_OWN | RAID_ICON_FRIENDLY
+   0050E8D0  size=4880   direct     BUFF_ICON_SIZE | BUFF_ICON_PADDING | BUFF_ICON_ALIGN
+   007913D0  size=1168   direct     ItemGetText1 | ItemGetText2 | ItemGetText3
+   0050C100  size=9376   direct     TIPITEMSHOW | TITLES_ICONS | TITLES_ICONS_OWN
+   0065A0C0  size=832    direct     ItemAbilityMove/Bg | ItemAbilityMove/text/MainTitle | ItemAbilityMove/text/01
+   004EAE10  size=240    direct     BUFF_ICON_SIZE | BUFF_ICON_PADDING | BUFF_ICON_ALIGN
+   004ED2F0  size=240    direct     DEBUFF_ICON_SIZE | DEBUFF_ICON_PADDING | DEBUFF_ICON_ALIGN
+   004EAF00  size=128    direct     BUFF_ICON_SIZE | BUFF_ICON_PADDING | BUFF_ICON_ALIGN
+   004ED3E0  size=112    direct     DEBUFF_ICON_SIZE | DEBUFF_ICON_PADDING | DEBUFF_ICON_ALIGN
+   005F5710  size=27104  direct     Required Item Level %d+ | This pet will automatically collect items and gold for you. | This pet will automatically coll
+   0071CBE0  size=3856   direct     data/Item | data/Item | data/Item
+   00662080  size=1408   direct     ItemRemodeling/Bg | ItemRemodeling/text/MainTitle | ItemRemodeling/text/01
+   007A17C0  size=1168   direct     SlotIconMargin | EnableIconType | EnableItemType
+   0069EAA0  size=944    direct     ItemCompansation/Bg | ItemCompansation/text/MainTitle | ItemCompansation/text/01
+   0078FC60  size=768    direct     CompItem_0 | CompItem_1 | CompItem_2
+   007A1500  size=704    direct     ItemColor | ItemList | Item_%d
+   007F9B80  size=2352   direct     GS_ERR_ITEM_NOT_FOUND | GS_ERR_DUPLICATE_ITEM
+   004E8E90  size=2048   direct     Auction/page_items_sold | Auction/page_items_bought
+   007FA4B0  size=1856   direct     The system cannot find the item specified. | It is an item which is duplicated.
+
+== Сцена/мир: 16 функций
+   005DABA0  size=1696   direct     data/world/env/%d.env | data/world/env/%d.env | Open World Env Failed! [%d]
+   0057F470  size=4864   direct     strip.wld | data/world
+   005D8360  size=1040   direct     %d.wld | data/world
+   005DECF0  size=1040   direct     data/world/dungeon | data/world/dungeon
+   005C7F80  size=12752  direct     RenderSceneDungeon | RenderSceneWithUnderwater | RenderSceneWithUnderwater
+   0066A740  size=2656   direct     Data/ExcelXml/WorldMapData.xml | WorldMap
+   007C3790  size=832    direct     g_mWorldViewProjection | g_mWorld
+   00727270  size=704    direct     WorldViewProj | g_World
+   007CAD90  size=464    direct     g_mWorldViewProjection | g_mWorld
+   005B35C0  size=1440   direct     data/world/TacticsZone.zon
+   00583010  size=1408   direct     Data/World/%d.svmap
+   0066C080  size=1136   direct     data/world/%d.wld
+   00631740  size=33664  direct     TerrainShader create success. | TerrainShader create failed.
+   007A9310  size=1776   direct     GameScene | LobbyLoadingScene
+   007D4C20  size=944    direct     mWorldMatrixArray
+   007CC510  size=448    inherited  
+
+== Сеть: 13 функций
+   007D5BA0  size=512    direct     
+   007D5DD0  size=384    direct     Socket
+   007D5F50  size=352    direct     Socket
+   007D60B0  size=144    direct     Socket
+   007D5810  size=736    direct     
+   007D61A0  size=64     direct     
+   007D5AF0  size=176    direct     
+   007D6180  size=32     direct     
+   0073C340  size=400    direct     Packet Underflow. Protocol : 0x%04X Size : %d Read %d | Shaiya Error Report-Packet Error
+   00578200  size=23872  inherited  
+   00752D10  size=8400   inherited  
+   004E7950  size=4448   inherited  
+   004E6FD0  size=2432   inherited  
+
+== Таблицы sdata: 11 функций
+   0053AFB0  size=12224  direct     data/BinarySData/DBNpcSkillData.SData | data/BinarySData/DBSkillData.SData | .SData
+   00536850  size=9136   direct     data/BinarySData/DBItemData.SData | .SData | data/BinarySData/DBItemText_
+   0053E090  size=7056   direct     data/BinarySData/DBSetItemData.SData | .SData | data/BinarySData/DBSetItemText_
+   005394A0  size=6848   direct     data/BinarySData/DBMonsterData.SData | .SData | data/BinarySData/DBMonsterText_
+   00593910  size=6832   direct     data/Npc/GuildHouse.SData
+   0053FC80  size=2928   direct     data/BinarySData/DBDualLayerClothesData.SData
+   00541050  size=2928   direct     data/BinarySData/DBTransformModelData.SData
+   0055A530  size=2704   direct     NpcQuest.SData
+   00541BC0  size=2400   direct     data/BinarySData/DBTransformWeaponModelData.SData
+   005407F0  size=2144   direct     data/BinarySData/DBSkinModelData.SData
+   0063BCD0  size=2128   direct     KillStatus.SData
+
+== Персонаж: 10 функций
+   005D8770  size=4112   direct     humf_action.ALT | data/Character/Human | humm_action.ALT
+   00603580  size=3280   direct     INTERFACE_800X600 | INTERFACE_1024X768 | INTERFACE_1600X1200
+   00709340  size=816    direct     data/character/human/3dc/humf_shadow.3DC | data/character/human/3dc/humm_shadow.3DC | data/character/human/3dc/huwf_shad
+   00709670  size=528    direct     data/character/human/3dc/humf_shadow.3DC | data/character/human/3dc/humm_shadow.3DC | data/character/human/3dc/huwf_shad
+   00771B10  size=688    direct     %d_humm.pc | %d_humf.pc | %d_huwf.pc
+   00715BA0  size=432    direct     humm_action.ALT | humf_action.ALT | data/Character/Human
+   00718570  size=976    direct     data/Character/Human | data/Character/Elf | data/Character/Vile
+   00603090  size=1264   direct     INTERFACE_800X600 | INTERFACE_1024X768 | INTERFACE_1600X1200
+   00620BC0  size=800    direct     ChangeFaceSex/ch_face | ChangeFaceSex/text/MainTitle | ChangeFaceSex/text/01
+   00501340  size=3040   inherited  
+
+== Монстры/NPC: 2 функций
+   0071B510  size=976    direct     Data/Monster/3DC | Data/Npc/3DC | Data/Monster/DDS
+   007846E0  size=592    direct     ----Monster info----
+
+== Модель: 1 функций
+   0070E440  size=1120   direct     data/sky/sky.3do | data/sky/DV.3do
+

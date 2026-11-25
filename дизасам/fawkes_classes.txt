@@ -1,0 +1,7 @@
+# RTTI-классы (структура логики)
+0083E263  <= 0083E276  [0083E2EC]  .?AVCCharacterMake@@
+0083F972  <= 0083FE8A  [0083FEF8]  .?AVCAtlModule@ATL@@
+00840A83  <= 008438F9  [00843970]  .?AVInfiniteCompListValueChangeListener@@
+00840A83  <= 00843932  [008439A4]  .?AVInfiniteNotCompConfirmOkListener@@
+00840A83  <= 00843961  [008439A4]  .?AVInfiniteNotCompConfirmOkListener@@
+00840A83  <= 008442CC  [00844310]  .?AVCUI_Slot@@

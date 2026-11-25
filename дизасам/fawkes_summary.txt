@@ -1,0 +1,8 @@
+exe: F:\imgeneus develep\клиенты\ShaiyaFawkes\Shaiya\default\game\game.exe
+code_region: 00401000-00865409 (4604937 bytes)
+strings: 21498
+functions: 12501
+direct_calls: 73166
+string_refs: 8279
+import_calls: 1418
+iat: 318

@@ -1,0 +1,39 @@
+# Граф вызовов fawkes
+
+функций=12501, рёбер=73166, рекурсивных=541
+компонент связности=819, крупнейшие: 10726, 546, 75, 22, 20
+изолированных (без рёбер)=659
+
+Топ-15 по исходящим вызовам (диспетчеры):
+  007A7AFF  out=2962  in=1  size=110049
+  004E41E0  out=1214  in=1  size=28560
+  00447920  out=684  in=1  size=14000
+  0072C877  out=510  in=0  size=23938
+  006687B0  out=482  in=1  size=10784
+  005C4E30  out=467  in=2  size=23872
+  0042C720  out=419  in=2  size=13776
+  004A6EF0  out=405  in=2  size=22560
+  0046EB60  out=395  in=1  size=35664
+  005D90D0  out=389  in=40  size=14048
+  005F9460  out=353  in=1  size=9520
+  007C2F10  out=349  in=0  size=17872
+  005FE310  out=339  in=1  size=8944
+  0043D100  out=331  in=1  size=9456
+  004AC710  out=317  in=1  size=15040
+
+Топ-15 по входящим вызовам (утилиты):
+  006ABDC3  in=3672  out=0  size=2
+  006AC280  in=2745  out=0  size=15
+  006AD1D0  in=2102  out=0  size=9
+  0066B2F0  in=1735  out=2  size=128
+  00430DF0  in=1566  out=38  size=2464
+  006ABDE9  in=1506  out=0  size=2
+  00436820  in=848  out=1  size=48
+  006ACFD0  in=823  out=0  size=122
+  004056F0  in=700  out=4  size=224
+  006AD27B  in=689  out=0  size=2
+  00645B60  in=580  out=2  size=112
+  00433060  in=575  out=2  size=64
+  0059F0C0  in=540  out=6  size=240
+  004126A0  in=531  out=1  size=48
+  006D4CE6  in=477  out=0  size=8

@@ -1,0 +1,13 @@
+# WinAPI-профиль eg
+
+прочее                   sites= 676 funcs= 329  top: KERNEL32.dll!GetLastError, IMM32.dll!ImmAssociateContext, KERNEL32.dll!CloseHandle, USER32.dll!GetMessageA
+время/таймеры            sites= 266 funcs= 148  top: KERNEL32.dll!GetTickCount, WINMM.dll!timeGetTime, KERNEL32.dll!Sleep, KERNEL32.dll!QueryPerformanceCounter
+окна/UI                  sites= 195 funcs=  61  top: USER32.dll!SetRect, USER32.dll!MessageBoxA, USER32.dll!DispatchMessageA, USER32.dll!TranslateMessage
+кодировки/строки         sites= 162 funcs=  72  top: KERNEL32.dll!MultiByteToWideChar, KERNEL32.dll!WideCharToMultiByte, KERNEL32.dll!lstrlenW, KERNEL32.dll!lstrcpyA
+синхронизация/потоки     sites= 128 funcs=  72  top: KERNEL32.dll!LeaveCriticalSection, KERNEL32.dll!EnterCriticalSection, KERNEL32.dll!DeleteCriticalSection, KERNEL32.dll!WaitForSingleObjectEx
+модули/процессы          sites= 102 funcs=  34  top: KERNEL32.dll!GetProcAddress, KERNEL32.dll!FreeLibrary, KERNEL32.dll!LoadLibraryA, KERNEL32.dll!GetModuleHandleA
+настройки ini/реестр     sites=  76 funcs=  42  top: KERNEL32.dll!WritePrivateProfileStringA, KERNEL32.dll!GetPrivateProfileStringA, ADVAPI32.dll!RegCloseKey, ADVAPI32.dll!RegQueryValueExA
+графика                  sites=  66 funcs=  22  top: GDI32.dll!DeleteObject, GDI32.dll!GetCharacterPlacementW, GDI32.dll!GetCharacterPlacementA, GDI32.dll!GetTextExtentPoint32A
+файлы                    sites=  58 funcs=  35  top: KERNEL32.dll!CreateFileA, KERNEL32.dll!ReadFile, KERNEL32.dll!WriteFile, KERNEL32.dll!CreateFileW
+ввод                     sites=  19 funcs=  13  top: USER32.dll!GetAsyncKeyState, USER32.dll!GetCursorPos, USER32.dll!ShowCursor
+сеть                     sites=   9 funcs=   6  top: GDI32.dll!SelectObject, USER32.dll!SendMessageA

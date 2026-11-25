@@ -1,0 +1,11 @@
+file: F:\imgeneus develep\клиенты\game fawkes без геймгуарда\game.exe
+size: 35200285
+machine: 014c
+image_base: 00400000
+ep_header: 02841600
+section: '   \x00    ' rva=00001000 bytes=33280000
+instructions: 15897626
+data_bytes: 14931 (0.04%)
+call_targets: 9319
+listing: F:\Shaiya Godo Engine\Documents\audit\disasm\fawkes_game_text.asm (612100467 bytes)
+seconds: 419.1

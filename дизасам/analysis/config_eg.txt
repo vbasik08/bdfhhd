@@ -1,0 +1,87 @@
+*>Software\Microsoft\Direct3D
+.?AVCItemRandOptionView@@
+.?AVCItemRemodelingRandOptionSelection@@
+.?AVCSheetoption_V2@@
+.?AVExcelXmlReader@@
+.?AVSheetSystemOption@@
+.\SORT_LIST.INI
+ButtonOption
+ButtonTextFreeSizeOption
+CONFIG.INI
+Can not find ChaoticsquareType.xml
+Can not find FunctionalPetSize.xml
+Can not find HealSkillList.xml
+Can not find MainQuest.xml
+Can not find WingPosition.xml
+Chat/chat_config3_ex
+CheckOption
+Data/ExcelXml/MountCharPosition.json
+Data/ExcelXml/WorldMapData.xml
+DownButtonOption
+FontOption
+Graphic Options
+KEYBIND_OPTIONS
+Key Binding for Party Options
+Key Binding for Tab Options
+LayoutOption
+ListBoxBackgroundOption
+ListBoxOption
+MainBottom/button/Option.tga
+OPTION
+Option/graphic_slider.tga
+Option/key
+Option/main
+Option/sound
+Option/text/MainTitle
+Option/text/mainMainTitle
+Option/text/sound01
+Option/text/sound02
+Option/text/sound03
+Option/text/sound04
+Option/text/sound05
+Option/text/sound06
+OptionSub_SystemOption
+Options Window
+OverViewOption
+ProgressViewOption
+RandOptionView/Bg
+RandOptionView/text/MainTitle
+SHEET_OPTION_POS_X
+SHEET_OPTION_POS_Y
+Script/WaterShader.ini
+ScrollBarOption
+SelectViewOption
+Shader Options
+Software\GS\
+TextOptionIndex
+The version option is invalid.
+Toggle Options
+UpButtonOption
+Use: /mute Name MuteLevel Hours(Optional)
+Use: /raidban Name BanType Hours(Optional)
+User Options
+Version.ini
+Visual Options
+config.sell.json
+data/CMP.ini
+data/Config.cfg
+data/Effect/SkillEffect.xml
+data/ExcelXml/BattlefieldMoveData.xml
+data/ExcelXml/BodySkinData.xml
+data/ExcelXml/ChaoticsquareType.xml
+data/ExcelXml/FontStyleSet.xml
+data/ExcelXml/FunctionalPetSize.xml
+data/ExcelXml/GMNoticeInfo.xml
+data/ExcelXml/HealSkillList.xml
+data/ExcelXml/MainQuest.xml
+data/ExcelXml/TPData.xml
+data/ExcelXml/WingPosition.xml
+data/ExcelXml/YMEventInfo.xml
+data/ExcelXml/YMWaterShaderParams.xml
+data/PRU.ini
+gsConfig.cfg
+no protocol option
+option
+option/graphic_slider.tga
+option/tab_button.tga
+software\microsoft\windows\currentversion\

@@ -1,0 +1,52 @@
+# Сводка анализа (Desktop\дизасам\analysis)
+
+## Файлы
+
+api_eg.txt                         1892 б
+api_fawkes.txt                     1909 б
+assets_inventory.csv             151086 б
+assets_summary.txt                  875 б
+callgraph_eg.csv                 265331 б
+callgraph_eg.txt                   1527 б
+callgraph_fawkes.csv             290752 б
+callgraph_fawkes.txt               1524 б
+config_eg.txt                      2058 б
+config_fawkes.txt                  2775 б
+constants_eg.txt                   3847 б
+constants_fawkes.txt               3863 б
+diff_eg_fawkes.txt                 3077 б
+missing_eg.txt                     5688 б
+missing_fawkes.txt                 1077 б
+network_eg.csv                      403 б
+network_fawkes.csv                 1135 б
+rtti_classes_eg.txt               34073 б
+rtti_classes_fawkes.txt           29378 б
+rtti_eg.csv                          37 б
+rtti_eg.txt                       27139 б
+rtti_fawkes.csv                      37 б
+rtti_fawkes.txt                   23222 б
+rtti_status.txt                    1083 б
+
+## Инвентарь
+EG: 1187 путей (exact 55, по имени 874, нет 258)
+Fawkes: 1146 путей (exact 61, по имени 1022, нет 63)
+Data: 51 118 файлов; dds 19 716, tga 8 238, 3dc 6 931, ani 6 212
+
+## Граф вызовов
+EG: 11 406 функций, 74 636 рёбер, 887 компонент
+Fawkes: 12 501 функция, 73 166 рёбер, 819 компонент
+
+## WinAPI
+EG: 1 757 вызовов, 340 функций; Fawkes: 1 418 вызовов, 318 функций
+Лидеры: timeGetTime/GetTickCount (таймеры), MultiByteToWideChar (кодировки), SetRect, MessageBoxA, WritePrivateProfileStringA
+
+## Различия EG и Fawkes
+ресурсы: общих много, только Fawkes 260, только EG 301
+sdata: у Fawkes 25 (добавлены NpcQuestTrans_*), у EG 13
+EFT: у EG 357, у Fawkes 273 (91 только у EG, 7 только у Fawkes)
+API: EG 340, Fawkes 316
+
+## Ограничения
+RTTI: vftable не восстановлены (COL в дампе отсутствуют); список классов есть.
+Границы функций: прологи + цели call, не полный CFG.
+Строки: ASCII >=5 символов; xref только прямые.

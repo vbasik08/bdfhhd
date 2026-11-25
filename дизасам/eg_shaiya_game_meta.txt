@@ -1,0 +1,11 @@
+file: F:\imgeneus develep\клиенты\EG Shaiya\game.exe
+size: 7662248
+machine: 014c
+image_base: 00400000
+ep_header: 00412CF8
+section: '.text' rva=00001000 bytes=4622848
+instructions: 1393554
+data_bytes: 1368 (0.03%)
+call_targets: 7980
+listing: F:\Shaiya Godo Engine\Documents\audit\disasm\eg_shaiya_game_text.asm (47499874 bytes)
+seconds: 32.2
